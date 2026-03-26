@@ -2,17 +2,6 @@
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import {
-  Briefcase,
-  Plus,
-  BookOpen,
-  BarChart3,
-  Lightbulb,
-  Target,
-  Users,
-  TrendingUp,
-  Award,
-} from 'lucide-react';
 import Link from 'next/link';
 
 const frameworks = [
